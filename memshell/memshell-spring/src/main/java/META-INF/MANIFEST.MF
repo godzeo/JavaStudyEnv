@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Main-Class: 
+Class-Path: spring-webmvc-5.2.3.RELEASE.jar spring-beans-5.2.3.RELEASE.j
+ ar spring-aop-5.2.3.RELEASE.jar spring-jcl-5.2.3.RELEASE.jar spring-con
+ text-5.2.3.RELEASE.jar spring-web-5.2.3.RELEASE.jar el-api.jar jasper.j
+ ar jsp-api.jar catalina.jar ecj-4.6.3.jar jasper-el.jar jaspic-api.jar 
+ tomcat-api.jar tomcat-jni.jar catalina-ha.jar servlet-api.jar tomcat-db
+ cp.jar tomcat-jdbc.jar tomcat-util.jar catalina-ant.jar tomcat-coyote.j
+ ar websocket-api.jar tomcat-i18n-de.jar tomcat-i18n-es.jar tomcat-i18n-
+ fr.jar tomcat-i18n-ja.jar tomcat-i18n-ko.jar tomcat-i18n-ru.jar annotat
+ ions-api.jar catalina-tribes.jar tomcat-util-scan.jar tomcat-websocket.
+ jar tomcat-i18n-zh-CN.jar catalina-storeconfig.jar spring-core-5.2.3.RE
+ LEASE.jar spring-expression-5.2.3.RELEASE.jar
+
